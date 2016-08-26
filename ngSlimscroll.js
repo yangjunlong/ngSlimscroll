@@ -2,6 +2,10 @@
  * ng-slimscroll directive
  *
  * @see https://github.com/yangjunlong/ngSlimscroll
+ * @usage
+ * <div class="sidebar-section" ng-slimscroll rail-visible="true" height="100%">
+ * ...
+ * </div>
  * 
  * AngularJS implementation of original jQuery slimScroll
  * @see https://github.com/rochal/jQuery-slimScroll
